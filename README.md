@@ -1,0 +1,4 @@
+Control de Personal: Este programa lo que hace es generar un archivo te texto, que se cifrara por completo, pero el programa solo lo podrá leer, lo que hace es que cualquier empleado que presione el botón e introduzca su nombre, se va a guardar en el documento de texto la fecha y hora exacta en la que el empleado llegó a la oficina, y lo mismo cuando salga de su oficio.
+El Control de Personal ha sido creado en C#.
+Gestor de Biblioteca: Este programa lo que hace es hacer una conexión a una base de datos .db. Pues el programa se trata de que puedas agregar clientes, dentro de los clientes, agregar los datos. Como el nombre del cliente, la fecha de entrega, la fecha de vencimiento, el nombre del libro, correo electrónico, número de teléfono, dirección, precio del libro. Pues esto se almacena en una base de datos y desde el programa vas a poder ver la base de datos entera con sus tablas etc.
+El Gestor de Biblioteca ha sido creado en Python.
